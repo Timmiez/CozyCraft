@@ -13,6 +13,7 @@ config/iris.properties
 
 # Ignore files that are just user-specific and not needed in version control
 minecraftinstance.json
+usercache.json
 .mixin.out
 .curseclient
 saves/
