@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"seasonsextras:season_calendar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"seasonsextras:crop_season_tester"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"seasonsextras:season_detector"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"seasonsextras:chiller"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"seasonsextras:white_greenhouse_glass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:blue_ice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:iron_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"seasonsextras:heater"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:oak_log"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

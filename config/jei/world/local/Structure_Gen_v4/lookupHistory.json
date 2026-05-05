@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:magenta_stained_glass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"betterend:spawn_egg_end_slime"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"betterend:glowing_pillar_luminophor"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

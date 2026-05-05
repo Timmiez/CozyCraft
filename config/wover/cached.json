@@ -1,0 +1,8 @@
+{
+  "create_version": "30.2.1",
+  "version": {
+    "last_check_date": "2026-05-02T00:01:52.433522700Z",
+    "last_json": "eyJtYyI6IjEuMjEuMSIsImxvYWRlciI6ImZhYnJpYyIsIm1vZHMiOlt7Im4iOiJ3b3ZlciIsInYiOiIyMS4wLjEzIn0seyJuIjoiYmNsaWIiLCJ2IjoiMjEuMC4xMyJ9LHsibiI6ImJldHRlcmVuZCIsInYiOiIyMS4wLjExIn0seyJuIjoiYmV0dGVybmV0aGVyIiwidiI6IjIxLjAuMTEifSx7Im4iOiJ3dW5kZXJyZWljaCIsInYiOiIyMS4wLjQifV19"
+  },
+  "modify_version": "30.3.4"
+}

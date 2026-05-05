@@ -1,0 +1,53 @@
+type = customizablemenus
+
+net.minecraft.class_442 {
+}
+
+net.minecraft.class_526 {
+}
+
+net.minecraft.class_4749 {
+}
+
+net.minecraft.class_500 {
+}
+
+net.minecraft.class_420 {
+}
+
+net.minecraft.class_422 {
+}
+
+net.caffeinemc.mods.sodium.client.gui.SodiumOptionsGUI {
+}
+
+net.minecraft.class_3928 {
+}
+
+net.minecraft.class_424 {
+}
+
+net.minecraft.class_435 {
+}
+
+net.minecraft.class_412 {
+}
+
+net.minecraft.class_434 {
+}
+
+net.minecraft.class_524 {
+}
+
+net.minecraft.class_410 {
+}
+
+net.minecraft.class_429 {
+}
+
+net.minecraft.class_426 {
+}
+
+net.minecraft.class_525 {
+}
+

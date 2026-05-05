@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"ftbquests:screen_7","components":{"ftbquests:task_screen_saved":{}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ftbquests:screen_1"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ftbquests:task_screen_configurator"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

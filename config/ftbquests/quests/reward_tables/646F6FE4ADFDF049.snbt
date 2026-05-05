@@ -1,0 +1,7 @@
+{
+	hide_tooltip: true
+	id: "646F6FE4ADFDF049"
+	loot_size: 1
+	order_index: 0
+	rewards: [{ id: "3D7116C15B564BAD", item: { components: { "ftbquests:missing_item": "seasonsextras:season_calendar" }, count: 1, id: "ftbquests:missing_item" } }]
+}

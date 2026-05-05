@@ -1,0 +1,41 @@
+{
+	chapter.09E651A05B326968.title: "Campaign"
+	chapter.52751964619666DA.title: "All beginnings"
+	file.0000000000000001.title: "CozyCraft"
+	quest.281C13329223F315.quest_subtitle: "With Fabric Seasons!"
+	quest.281C13329223F315.title: "Staying Ahead"
+	quest.360F84154767478C.quest_desc: ["This quest automatically completes on its own once you obtain any log variant above!"]
+	quest.360F84154767478C.quest_subtitle: "We all start somewhere!"
+	quest.360F84154767478C.title: "Get wood!"
+	quest.576571A6A073CF83.quest_desc: [
+		"&lCozyCraft is currently in the early stages of development.&r"
+		""
+		"This quest book is subject to change on the fly as future revisions come out."
+		""
+		"If you happen to run into any bugs or have any issues, please reach out via Discord!"
+	]
+	quest.576571A6A073CF83.quest_subtitle: "Quick prerequesite info!"
+	quest.576571A6A073CF83.title: "Getting Started"
+	quest.61839D9B5FD2A95B.quest_desc: [
+		"By pressing &lN&r on your keyboard, you will open a notepad!"
+		""
+		"This notepad will insanely useful for taking notes on the fly for projects, or simply anything you may want to write down!"
+	]
+	quest.61839D9B5FD2A95B.quest_subtitle: "With Notely!"
+	quest.61839D9B5FD2A95B.title: "Staying Organized"
+	reward.117754B205C2749D.title: "Receive Season Calendar"
+	reward.17E001BE7F324228.title: "+5 XP"
+	reward.186F79E8C19F6EEA.title: "So It Begins"
+	reward.290D2C33D726727A.title: "+2 XP"
+	reward.44D97648F2A27113.title: "+1 XP"
+	reward_table.646F6FE4ADFDF049.title: "Seasons Calendar"
+	task.032A85103FF8031B.title: "Welcome!"
+	task.136E2146C0300B75.title: "I Acknowledge"
+	task.1971F31BDDD69E51.title: "Getting Started"
+	task.2B87842EC3EE5B24.title: "Overworld"
+	task.2F5C3ACC21354C34.title: "With Notely!"
+	task.389A960B91D47103.title: "I Acknowledge"
+	task.52D898F7F9C9A345.title: "test"
+	task.58B42A066D253580.title: "Gather any type of wood"
+	task.7B421FD99B9C0BAF.title: "I Acknowledge"
+}

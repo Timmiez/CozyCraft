@@ -1,0 +1,49 @@
+{
+	autofocus_id: "360F84154767478C"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "campaign_09E651A05B326968"
+	group: ""
+	hide_quest_until_deps_complete: true
+	icon: {
+		components: {
+			"ftbquests:icon": "minecraft:textures/gui/sprites/hud/heart/frozen_full.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "09E651A05B326968"
+	images: [{
+		color: 5033194
+		height: 2.75d
+		image: "fancymenu:textures/contextmenu/icons/grid.png"
+		rotation: 0.0d
+		width: 2.75d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		dependencies: ["576571A6A073CF83"]
+		icon: {
+			id: "minecraft:oak_log"
+		}
+		id: "360F84154767478C"
+		rewards: [{
+			auto: "invisible"
+			id: "44D97648F2A27113"
+			type: "xp"
+			xp: 1
+		}]
+		shape: "square"
+		size: 2.0d
+		tasks: [{
+			consume_items: false
+			id: "58B42A066D253580"
+			item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:oak_log)item(minecraft:spruce_log)item(minecraft:birch_log)item(minecraft:jungle_log)item(minecraft:acacia_log)item(minecraft:dark_oak_log)item(minecraft:mangrove_log)item(minecraft:cherry_log)item(minecraft:birch_log))", "minecraft:custom_name": "\"Wood Logs\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}
