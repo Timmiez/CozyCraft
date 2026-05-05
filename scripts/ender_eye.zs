@@ -1,4 +1,4 @@
-// Remove & modify Eye of Ender recipe
+// Remove & modify Ender Eye recipe
 craftingTable.remove(<item:minecraft:ender_eye>);
 craftingTable.addShapeless("buffed_ender_eye", <item:minecraft:ender_eye> * 2, [
     <item:minecraft:ender_pearl>,
