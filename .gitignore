@@ -9,9 +9,10 @@ logs/
 # Ignore user specfic configuration files that update timestamps every starup
 config/fabric/
 config/iris.properties
-
+config/jei/
 
 # Ignore files that are just user-specific and not needed in version control
+command_history.json
 minecraftinstance.json
 usercache.json
 .mixin.out
