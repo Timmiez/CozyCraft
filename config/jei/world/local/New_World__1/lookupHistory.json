@@ -1,7 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"minecraft:oak_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"seasonsextras:season_detector"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"seasonsextras:heater"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"seasonsextras:chiller"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]

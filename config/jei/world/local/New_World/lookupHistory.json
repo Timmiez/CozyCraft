@@ -1,6 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"seasonsextras:season_calendar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"seasonsextras:chiller"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"seasonsextras:heater"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
